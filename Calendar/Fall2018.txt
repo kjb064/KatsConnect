@@ -1,0 +1,4184 @@
+jQuery3310547539047366111_1541387210423({
+    "events": [{
+        "event": {
+            "id": 1155529,
+            "title": "Academic Advisement Opens for Summer and Fall 2018 Terms",
+            "url": "",
+            "updated_at": "2018-03-09T09:26:06-06:00",
+            "created_at": "2018-01-11T10:29:04-06:00",
+            "facebook_id": null,
+            "first_date": "2018-02-12",
+            "last_date": "2018-02-12",
+            "hashtag": "",
+            "urlname": "academic_advisement_opens_for_summer_and_fall_2018_terms_9706",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 526896,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": [],
+            "tags": ["fall2018"],
+            "description_text": "Students may contact the SAM Center to schedule an advising appointment.",
+            "photo_id": 456809,
+            "detail_views": 1008,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3272870,
+                    "ranking": 0,
+                    "event_id": 1155529,
+                    "start": "2018-02-12T00:00:00-06:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>Students may contact the <a href=\"http://www.shsu.edu/centers/sam-center/advising/index.html\">SAM Center </a>to schedule an advising appointment.</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/academic_advisement_opens_for_summer_and_fall_2018_terms_9706",
+            "localist_ics_url": "https://events.shsu.edu/event/academic_advisement_opens_for_summer_and_fall_2018_terms_9706.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/456809/huge/c739af7a28e2832f0b41a46a196687ad5f579c3d.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107417,
+            "title": "Advanced Registration for Summer and Fall 2018 Terms",
+            "url": "",
+            "updated_at": "2018-04-21T07:04:40-05:00",
+            "created_at": "2017-11-14T11:06:49-06:00",
+            "facebook_id": null,
+            "first_date": "2018-04-13",
+            "last_date": "2018-04-20",
+            "hashtag": "",
+            "urlname": "advanced_registration_begins_for_summer_and_fall_2018_terms",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": true,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["fall registration opening", "fall 2017 registration opening"],
+            "tags": ["fall2018"],
+            "description_text": "See the Advance Registration Schedule for details on registering by classification and the breakdown of registration times by alpha schedule. \n\nFor additional course schedule information, refer to the Schedule of Classes.",
+            "photo_id": 456809,
+            "detail_views": 974,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3162929,
+                    "ranking": 0,
+                    "event_id": 1107417,
+                    "start": "2018-04-13T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>See the <a href=\"http://www.shsu.edu/dept/registrar/calendars/advance-registration.html\">Advance Registration Schedule </a>for details on registering by classification&nbsp;and the breakdown of registration times by alpha schedule.&nbsp;</p>\r\n\r\n<p>For additional course schedule information,&nbsp;refer to the <a href=\"http://www.shsu.edu/academics/current-schedule-of-classes.html\">Schedule of Classes</a>.</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {},
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/advanced_registration_begins_for_summer_and_fall_2018_terms",
+            "localist_ics_url": "https://events.shsu.edu/event/advanced_registration_begins_for_summer_and_fall_2018_terms.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/456809/huge/c739af7a28e2832f0b41a46a196687ad5f579c3d.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107417,
+            "title": "Advanced Registration for Summer and Fall 2018 Terms",
+            "url": "",
+            "updated_at": "2018-04-21T07:04:40-05:00",
+            "created_at": "2017-11-14T11:06:49-06:00",
+            "facebook_id": null,
+            "first_date": "2018-04-13",
+            "last_date": "2018-04-20",
+            "hashtag": "",
+            "urlname": "advanced_registration_begins_for_summer_and_fall_2018_terms",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": true,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["fall registration opening", "fall 2017 registration opening"],
+            "tags": ["fall2018"],
+            "description_text": "See the Advance Registration Schedule for details on registering by classification and the breakdown of registration times by alpha schedule. \n\nFor additional course schedule information, refer to the Schedule of Classes.",
+            "photo_id": 456809,
+            "detail_views": 974,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3469075,
+                    "ranking": 0,
+                    "event_id": 1107417,
+                    "start": "2018-04-16T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>See the <a href=\"http://www.shsu.edu/dept/registrar/calendars/advance-registration.html\">Advance Registration Schedule </a>for details on registering by classification&nbsp;and the breakdown of registration times by alpha schedule.&nbsp;</p>\r\n\r\n<p>For additional course schedule information,&nbsp;refer to the <a href=\"http://www.shsu.edu/academics/current-schedule-of-classes.html\">Schedule of Classes</a>.</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {},
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/advanced_registration_begins_for_summer_and_fall_2018_terms",
+            "localist_ics_url": "https://events.shsu.edu/event/advanced_registration_begins_for_summer_and_fall_2018_terms.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/456809/huge/c739af7a28e2832f0b41a46a196687ad5f579c3d.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107417,
+            "title": "Advanced Registration for Summer and Fall 2018 Terms",
+            "url": "",
+            "updated_at": "2018-04-21T07:04:40-05:00",
+            "created_at": "2017-11-14T11:06:49-06:00",
+            "facebook_id": null,
+            "first_date": "2018-04-13",
+            "last_date": "2018-04-20",
+            "hashtag": "",
+            "urlname": "advanced_registration_begins_for_summer_and_fall_2018_terms",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": true,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["fall registration opening", "fall 2017 registration opening"],
+            "tags": ["fall2018"],
+            "description_text": "See the Advance Registration Schedule for details on registering by classification and the breakdown of registration times by alpha schedule. \n\nFor additional course schedule information, refer to the Schedule of Classes.",
+            "photo_id": 456809,
+            "detail_views": 974,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3469076,
+                    "ranking": 0,
+                    "event_id": 1107417,
+                    "start": "2018-04-17T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>See the <a href=\"http://www.shsu.edu/dept/registrar/calendars/advance-registration.html\">Advance Registration Schedule </a>for details on registering by classification&nbsp;and the breakdown of registration times by alpha schedule.&nbsp;</p>\r\n\r\n<p>For additional course schedule information,&nbsp;refer to the <a href=\"http://www.shsu.edu/academics/current-schedule-of-classes.html\">Schedule of Classes</a>.</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {},
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/advanced_registration_begins_for_summer_and_fall_2018_terms",
+            "localist_ics_url": "https://events.shsu.edu/event/advanced_registration_begins_for_summer_and_fall_2018_terms.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/456809/huge/c739af7a28e2832f0b41a46a196687ad5f579c3d.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107417,
+            "title": "Advanced Registration for Summer and Fall 2018 Terms",
+            "url": "",
+            "updated_at": "2018-04-21T07:04:40-05:00",
+            "created_at": "2017-11-14T11:06:49-06:00",
+            "facebook_id": null,
+            "first_date": "2018-04-13",
+            "last_date": "2018-04-20",
+            "hashtag": "",
+            "urlname": "advanced_registration_begins_for_summer_and_fall_2018_terms",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": true,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["fall registration opening", "fall 2017 registration opening"],
+            "tags": ["fall2018"],
+            "description_text": "See the Advance Registration Schedule for details on registering by classification and the breakdown of registration times by alpha schedule. \n\nFor additional course schedule information, refer to the Schedule of Classes.",
+            "photo_id": 456809,
+            "detail_views": 974,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3469077,
+                    "ranking": 0,
+                    "event_id": 1107417,
+                    "start": "2018-04-18T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>See the <a href=\"http://www.shsu.edu/dept/registrar/calendars/advance-registration.html\">Advance Registration Schedule </a>for details on registering by classification&nbsp;and the breakdown of registration times by alpha schedule.&nbsp;</p>\r\n\r\n<p>For additional course schedule information,&nbsp;refer to the <a href=\"http://www.shsu.edu/academics/current-schedule-of-classes.html\">Schedule of Classes</a>.</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {},
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/advanced_registration_begins_for_summer_and_fall_2018_terms",
+            "localist_ics_url": "https://events.shsu.edu/event/advanced_registration_begins_for_summer_and_fall_2018_terms.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/456809/huge/c739af7a28e2832f0b41a46a196687ad5f579c3d.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107417,
+            "title": "Advanced Registration for Summer and Fall 2018 Terms",
+            "url": "",
+            "updated_at": "2018-04-21T07:04:40-05:00",
+            "created_at": "2017-11-14T11:06:49-06:00",
+            "facebook_id": null,
+            "first_date": "2018-04-13",
+            "last_date": "2018-04-20",
+            "hashtag": "",
+            "urlname": "advanced_registration_begins_for_summer_and_fall_2018_terms",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": true,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["fall registration opening", "fall 2017 registration opening"],
+            "tags": ["fall2018"],
+            "description_text": "See the Advance Registration Schedule for details on registering by classification and the breakdown of registration times by alpha schedule. \n\nFor additional course schedule information, refer to the Schedule of Classes.",
+            "photo_id": 456809,
+            "detail_views": 974,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3469079,
+                    "ranking": 0,
+                    "event_id": 1107417,
+                    "start": "2018-04-19T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>See the <a href=\"http://www.shsu.edu/dept/registrar/calendars/advance-registration.html\">Advance Registration Schedule </a>for details on registering by classification&nbsp;and the breakdown of registration times by alpha schedule.&nbsp;</p>\r\n\r\n<p>For additional course schedule information,&nbsp;refer to the <a href=\"http://www.shsu.edu/academics/current-schedule-of-classes.html\">Schedule of Classes</a>.</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {},
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/advanced_registration_begins_for_summer_and_fall_2018_terms",
+            "localist_ics_url": "https://events.shsu.edu/event/advanced_registration_begins_for_summer_and_fall_2018_terms.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/456809/huge/c739af7a28e2832f0b41a46a196687ad5f579c3d.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107417,
+            "title": "Advanced Registration for Summer and Fall 2018 Terms",
+            "url": "",
+            "updated_at": "2018-04-21T07:04:40-05:00",
+            "created_at": "2017-11-14T11:06:49-06:00",
+            "facebook_id": null,
+            "first_date": "2018-04-13",
+            "last_date": "2018-04-20",
+            "hashtag": "",
+            "urlname": "advanced_registration_begins_for_summer_and_fall_2018_terms",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": true,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["fall registration opening", "fall 2017 registration opening"],
+            "tags": ["fall2018"],
+            "description_text": "See the Advance Registration Schedule for details on registering by classification and the breakdown of registration times by alpha schedule. \n\nFor additional course schedule information, refer to the Schedule of Classes.",
+            "photo_id": 456809,
+            "detail_views": 974,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3469080,
+                    "ranking": 0,
+                    "event_id": 1107417,
+                    "start": "2018-04-20T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>See the <a href=\"http://www.shsu.edu/dept/registrar/calendars/advance-registration.html\">Advance Registration Schedule </a>for details on registering by classification&nbsp;and the breakdown of registration times by alpha schedule.&nbsp;</p>\r\n\r\n<p>For additional course schedule information,&nbsp;refer to the <a href=\"http://www.shsu.edu/academics/current-schedule-of-classes.html\">Schedule of Classes</a>.</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {},
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/advanced_registration_begins_for_summer_and_fall_2018_terms",
+            "localist_ics_url": "https://events.shsu.edu/event/advanced_registration_begins_for_summer_and_fall_2018_terms.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/456809/huge/c739af7a28e2832f0b41a46a196687ad5f579c3d.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1234899,
+            "title": "Registration Open for All Students",
+            "url": "",
+            "updated_at": "2018-07-25T13:24:24-05:00",
+            "created_at": "2018-03-19T16:39:14-05:00",
+            "facebook_id": null,
+            "first_date": "2018-04-21",
+            "last_date": "2018-04-21",
+            "hashtag": "",
+            "urlname": "registration_open_for_all_students_593",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 577193,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["fall 2018 open registration"],
+            "tags": ["fall2018"],
+            "description_text": "Refer to Schedule of Classes for Details",
+            "photo_id": 444455,
+            "detail_views": 1076,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3467977,
+                    "ranking": 0,
+                    "event_id": 1234899,
+                    "start": "2018-04-21T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p><a href=\"http://www.shsu.edu/academics/current-schedule-of-classes.html\">Refer to Schedule of Classes for Details</a></p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/registration_open_for_all_students_593",
+            "localist_ics_url": "https://events.shsu.edu/event/registration_open_for_all_students_593.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107420,
+            "title": "Residence Halls Open for Occupancy, 11:00 AM - 5:00 PM",
+            "url": "",
+            "updated_at": "2018-08-22T05:23:58-05:00",
+            "created_at": "2017-11-14T11:09:08-06:00",
+            "facebook_id": null,
+            "first_date": "2018-08-18",
+            "last_date": "2018-08-21",
+            "hashtag": "",
+            "urlname": "residence_halls_open_for_occupancy_1100_am_-_500_pm_5331",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 590617,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["dormitory open", "dorms open for fall", "dorm open"],
+            "tags": ["fall2018"],
+            "description_text": "August 18, 19, 20, 21",
+            "photo_id": 337918,
+            "detail_views": 3427,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3162937,
+                    "ranking": 0,
+                    "event_id": 1107420,
+                    "start": "2018-08-18T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>August 18, 19, 20, 21</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/residence_halls_open_for_occupancy_1100_am_-_500_pm_5331",
+            "localist_ics_url": "https://events.shsu.edu/event/residence_halls_open_for_occupancy_1100_am_-_500_pm_5331.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/337918/huge/5051cb6d3b4e9e45e03fe4c767dafd881cbc8c6d.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107420,
+            "title": "Residence Halls Open for Occupancy, 11:00 AM - 5:00 PM",
+            "url": "",
+            "updated_at": "2018-08-22T05:23:58-05:00",
+            "created_at": "2017-11-14T11:09:08-06:00",
+            "facebook_id": null,
+            "first_date": "2018-08-18",
+            "last_date": "2018-08-21",
+            "hashtag": "",
+            "urlname": "residence_halls_open_for_occupancy_1100_am_-_500_pm_5331",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 590617,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["dormitory open", "dorms open for fall", "dorm open"],
+            "tags": ["fall2018"],
+            "description_text": "August 18, 19, 20, 21",
+            "photo_id": 337918,
+            "detail_views": 3427,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3162938,
+                    "ranking": 0,
+                    "event_id": 1107420,
+                    "start": "2018-08-19T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>August 18, 19, 20, 21</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/residence_halls_open_for_occupancy_1100_am_-_500_pm_5331",
+            "localist_ics_url": "https://events.shsu.edu/event/residence_halls_open_for_occupancy_1100_am_-_500_pm_5331.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/337918/huge/5051cb6d3b4e9e45e03fe4c767dafd881cbc8c6d.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107420,
+            "title": "Residence Halls Open for Occupancy, 11:00 AM - 5:00 PM",
+            "url": "",
+            "updated_at": "2018-08-22T05:23:58-05:00",
+            "created_at": "2017-11-14T11:09:08-06:00",
+            "facebook_id": null,
+            "first_date": "2018-08-18",
+            "last_date": "2018-08-21",
+            "hashtag": "",
+            "urlname": "residence_halls_open_for_occupancy_1100_am_-_500_pm_5331",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 590617,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["dormitory open", "dorms open for fall", "dorm open"],
+            "tags": ["fall2018"],
+            "description_text": "August 18, 19, 20, 21",
+            "photo_id": 337918,
+            "detail_views": 3427,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3162939,
+                    "ranking": 0,
+                    "event_id": 1107420,
+                    "start": "2018-08-20T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>August 18, 19, 20, 21</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/residence_halls_open_for_occupancy_1100_am_-_500_pm_5331",
+            "localist_ics_url": "https://events.shsu.edu/event/residence_halls_open_for_occupancy_1100_am_-_500_pm_5331.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/337918/huge/5051cb6d3b4e9e45e03fe4c767dafd881cbc8c6d.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1235425,
+            "title": "Payment Deadline",
+            "url": "",
+            "updated_at": "2018-08-22T06:07:47-05:00",
+            "created_at": "2018-03-20T09:35:36-05:00",
+            "facebook_id": null,
+            "first_date": "2018-08-21",
+            "last_date": "2018-08-21",
+            "hashtag": "",
+            "urlname": "fall_2018_registration_payment_deadline",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 591241,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["fall 2018 registration deadline", "fall 2018 payment deadline"],
+            "tags": ["fall2018"],
+            "description_text": "- Payment Due by 5:00 PM (In-Person) and 10:00 PM (Online)",
+            "photo_id": 444455,
+            "detail_views": 1644,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3469015,
+                    "ranking": 0,
+                    "event_id": 1235425,
+                    "start": "2018-08-21T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>- Payment Due by 5:00 PM (In-Person) and 10:00 PM (Online)</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/fall_2018_registration_payment_deadline",
+            "localist_ics_url": "https://events.shsu.edu/event/fall_2018_registration_payment_deadline.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107420,
+            "title": "Residence Halls Open for Occupancy, 11:00 AM - 5:00 PM",
+            "url": "",
+            "updated_at": "2018-08-22T05:23:58-05:00",
+            "created_at": "2017-11-14T11:09:08-06:00",
+            "facebook_id": null,
+            "first_date": "2018-08-18",
+            "last_date": "2018-08-21",
+            "hashtag": "",
+            "urlname": "residence_halls_open_for_occupancy_1100_am_-_500_pm_5331",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 590617,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["dormitory open", "dorms open for fall", "dorm open"],
+            "tags": ["fall2018"],
+            "description_text": "August 18, 19, 20, 21",
+            "photo_id": 337918,
+            "detail_views": 3427,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3162940,
+                    "ranking": 0,
+                    "event_id": 1107420,
+                    "start": "2018-08-21T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>August 18, 19, 20, 21</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/residence_halls_open_for_occupancy_1100_am_-_500_pm_5331",
+            "localist_ics_url": "https://events.shsu.edu/event/residence_halls_open_for_occupancy_1100_am_-_500_pm_5331.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/337918/huge/5051cb6d3b4e9e45e03fe4c767dafd881cbc8c6d.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107428,
+            "title": "First Class Day Full Term (15-Week) and 7 1/2 (A) Week Courses",
+            "url": "",
+            "updated_at": "2018-08-23T05:25:08-05:00",
+            "created_at": "2017-11-14T11:13:06-06:00",
+            "facebook_id": null,
+            "first_date": "2018-08-22",
+            "last_date": "2018-08-22",
+            "hashtag": "",
+            "urlname": "first_class_day_full_term_15-week_and_7_12_a_week_courses_3924",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 496557,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["first day class fall", "fall 2018 first class day", "first day fall 2018", "start of fall 2018", "night classes fall 2018"],
+            "tags": ["fall2018"],
+            "description_text": "- Daytime on-campus and off-campus classes begin\n\n- Late Registration open\n\n- Refer to the Registrar's page for details and deadlines\n\n- Wednesday Night (WN) classes begin (on-campus and off-campus)",
+            "photo_id": 444455,
+            "detail_views": 2438,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3162956,
+                    "ranking": 0,
+                    "event_id": 1107428,
+                    "start": "2018-08-22T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>- Daytime on-campus and off-campus classes begin</p>\r\n\r\n<p>- Late Registration open</p>\r\n\r\n<p>- Refer to the <a href=\"http://www.shsu.edu/dept/registrar/students/registration/registration-dates.html#schedule-changes\">Registrar&#39;s page for details and deadlines</a></p>\r\n\r\n<p>- Wednesday Night (WN) classes begin (on-campus and off-campus)</p>\r\n",
+            "featured": true,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/first_class_day_full_term_15-week_and_7_12_a_week_courses_3924",
+            "localist_ics_url": "https://events.shsu.edu/event/first_class_day_full_term_15-week_and_7_12_a_week_courses_3924.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107440,
+            "title": "Thursday Night (ThN) Classes Begin (On-Campus and Off-Campus)",
+            "url": "",
+            "updated_at": "2018-08-24T05:25:26-05:00",
+            "created_at": "2017-11-14T11:20:03-06:00",
+            "facebook_id": null,
+            "first_date": "2018-08-23",
+            "last_date": "2018-08-23",
+            "hashtag": "",
+            "urlname": "thursday_night_thn_classes_begin_on-campus_and_off-campus_8227",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["night classes fall 2018"],
+            "tags": ["fall2018"],
+            "description_text": "",
+            "photo_id": 444455,
+            "detail_views": 311,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3162966,
+                    "ranking": 0,
+                    "event_id": 1107440,
+                    "start": "2018-08-23T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/thursday_night_thn_classes_begin_on-campus_and_off-campus_8227",
+            "localist_ics_url": "https://events.shsu.edu/event/thursday_night_thn_classes_begin_on-campus_and_off-campus_8227.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107444,
+            "title": "Friday Night (FN) Classes Begin (On-Campus and Off-Campus)",
+            "url": "",
+            "updated_at": "2018-08-25T05:24:18-05:00",
+            "created_at": "2017-11-14T11:21:16-06:00",
+            "facebook_id": null,
+            "first_date": "2018-08-24",
+            "last_date": "2018-08-24",
+            "hashtag": "",
+            "urlname": "friday_night_fn_classes_begin_on-campus_and_off-campus_6245",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["fall 2018 night classes"],
+            "tags": ["fall2018"],
+            "description_text": "",
+            "photo_id": 444455,
+            "detail_views": 128,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3162969,
+                    "ranking": 0,
+                    "event_id": 1107444,
+                    "start": "2018-08-24T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/friday_night_fn_classes_begin_on-campus_and_off-campus_6245",
+            "localist_ics_url": "https://events.shsu.edu/event/friday_night_fn_classes_begin_on-campus_and_off-campus_6245.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107447,
+            "title": "Saturday Classes Begin (On-Campus and Off-Campus)",
+            "url": "",
+            "updated_at": "2018-08-26T05:25:43-05:00",
+            "created_at": "2017-11-14T11:22:12-06:00",
+            "facebook_id": null,
+            "first_date": "2018-08-25",
+            "last_date": "2018-08-25",
+            "hashtag": "",
+            "urlname": "saturday_classes_begin_on-campus_and_off-campus_1570",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 585293,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["fall 2018 saturday classes"],
+            "tags": ["fall2018"],
+            "description_text": "",
+            "photo_id": 444455,
+            "detail_views": 156,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3162973,
+                    "ranking": 0,
+                    "event_id": 1107447,
+                    "start": "2018-08-25T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/saturday_classes_begin_on-campus_and_off-campus_1570",
+            "localist_ics_url": "https://events.shsu.edu/event/saturday_classes_begin_on-campus_and_off-campus_1570.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 842526,
+            "title": "Monday Night (MN) Classes Begin (On-Campus and Off-Campus)",
+            "url": "",
+            "updated_at": "2018-08-28T05:24:40-05:00",
+            "created_at": "2016-11-28T12:13:23-06:00",
+            "facebook_id": null,
+            "first_date": "2018-08-27",
+            "last_date": "2018-08-27",
+            "hashtag": "",
+            "urlname": "monday_night_mn_classes_begin_on-campus_and_off-campus_2778",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 550344,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["night classes fall 2018"],
+            "tags": ["fall2018"],
+            "description_text": "",
+            "photo_id": 444455,
+            "detail_views": 260,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3162977,
+                    "ranking": 0,
+                    "event_id": 842526,
+                    "start": "2018-08-27T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/monday_night_mn_classes_begin_on-campus_and_off-campus_2778",
+            "localist_ics_url": "https://events.shsu.edu/event/monday_night_mn_classes_begin_on-campus_and_off-campus_2778.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1235428,
+            "title": "Registration Closes at 4:00 PM",
+            "url": "",
+            "updated_at": "2018-08-28T08:12:11-05:00",
+            "created_at": "2018-03-20T09:37:22-05:00",
+            "facebook_id": null,
+            "first_date": "2018-08-27",
+            "last_date": "2018-08-27",
+            "hashtag": "",
+            "urlname": "registration_open_between_1200_pm_-_400_pm_9481",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": [],
+            "tags": ["fall2018"],
+            "description_text": "",
+            "photo_id": 444455,
+            "detail_views": 746,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3783492,
+                    "ranking": 0,
+                    "event_id": 1235428,
+                    "start": "2018-08-27T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/registration_open_between_1200_pm_-_400_pm_9481",
+            "localist_ics_url": "https://events.shsu.edu/event/registration_open_between_1200_pm_-_400_pm_9481.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1235437,
+            "title": "Registration Open Between 12:00 PM - 4:00 PM",
+            "url": "",
+            "updated_at": "2018-08-29T09:03:32-05:00",
+            "created_at": "2018-03-20T09:38:50-05:00",
+            "facebook_id": null,
+            "first_date": "2018-08-28",
+            "last_date": "2018-08-28",
+            "hashtag": "",
+            "urlname": "registration_reopens_at_noon_1200_pm_4057",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": [],
+            "tags": ["fall2018"],
+            "description_text": "",
+            "photo_id": 444455,
+            "detail_views": 464,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3783494,
+                    "ranking": 0,
+                    "event_id": 1235437,
+                    "start": "2018-08-28T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/registration_reopens_at_noon_1200_pm_4057",
+            "localist_ics_url": "https://events.shsu.edu/event/registration_reopens_at_noon_1200_pm_4057.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107452,
+            "title": "Tuesday Night (TuN) Classes Begin (On-Campus and Off-Campus)",
+            "url": "",
+            "updated_at": "2018-08-29T06:07:07-05:00",
+            "created_at": "2017-11-14T11:24:19-06:00",
+            "facebook_id": null,
+            "first_date": "2018-08-28",
+            "last_date": "2018-08-28",
+            "hashtag": "",
+            "urlname": "tuesday_night_tun_classes_begin_on-campus_and_off-campus_7268",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 550344,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["night classes fall 2018"],
+            "tags": ["fall2018"],
+            "description_text": "",
+            "photo_id": 444455,
+            "detail_views": 113,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3162982,
+                    "ranking": 0,
+                    "event_id": 1107452,
+                    "start": "2018-08-28T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/tuesday_night_tun_classes_begin_on-campus_and_off-campus_7268",
+            "localist_ics_url": "https://events.shsu.edu/event/tuesday_night_tun_classes_begin_on-campus_and_off-campus_7268.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107462,
+            "title": "Last Day to Register and to Process Schedule Changes between 12:00 PM and 11:59 PM for Full Term (15-Week) Courses",
+            "url": "",
+            "updated_at": "2018-08-30T04:59:20-05:00",
+            "created_at": "2017-11-14T11:26:55-06:00",
+            "facebook_id": null,
+            "first_date": "2018-08-29",
+            "last_date": "2018-08-29",
+            "hashtag": "",
+            "urlname": "last_day_to_register_and_to_process_schedule_changes_5347",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["registration deadline", "last day to register online", "registration deadline fall 2018"],
+            "tags": ["fall2018"],
+            "description_text": "No registration permitted past this deadline",
+            "photo_id": 444455,
+            "detail_views": 422,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3198158,
+                    "ranking": 0,
+                    "event_id": 1107462,
+                    "start": "2018-08-29T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>No registration permitted past this deadline</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/last_day_to_register_and_to_process_schedule_changes_5347",
+            "localist_ics_url": "https://events.shsu.edu/event/last_day_to_register_and_to_process_schedule_changes_5347.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107457,
+            "title": "Labor Day - Holiday for Students and Faculty",
+            "url": "",
+            "updated_at": "2018-09-04T06:01:25-05:00",
+            "created_at": "2017-11-14T11:25:23-06:00",
+            "facebook_id": null,
+            "first_date": "2018-09-03",
+            "last_date": "2018-09-03",
+            "hashtag": "",
+            "urlname": "labor_day_-_holiday_for_students_and_faculty_8039",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 162493,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["labor day", "fall holiday", "university holiday fall 2018"],
+            "tags": ["fall2018"],
+            "description_text": "",
+            "photo_id": 444455,
+            "detail_views": 739,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3162992,
+                    "ranking": 0,
+                    "event_id": 1107457,
+                    "start": "2018-09-03T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "",
+            "featured": true,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/labor_day_-_holiday_for_students_and_faculty_8039",
+            "localist_ics_url": "https://events.shsu.edu/event/labor_day_-_holiday_for_students_and_faculty_8039.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107476,
+            "title": "Deadline for Fall 2018 Degree Applications",
+            "url": "",
+            "updated_at": "2018-09-08T06:02:35-05:00",
+            "created_at": "2017-11-14T11:30:21-06:00",
+            "facebook_id": null,
+            "first_date": "2018-09-07",
+            "last_date": "2018-09-07",
+            "hashtag": "",
+            "urlname": "deadline_for_fall_2018_degree_applications",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 603444,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["fall 2018 graduation application deadline"],
+            "tags": ["fall2018"],
+            "description_text": "Students anticipating to graduate December 2018 must file a degree application online through MySam by Friday, September 7. Learn how to apply.",
+            "photo_id": 444455,
+            "detail_views": 793,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163021,
+                    "ranking": 0,
+                    "event_id": 1107476,
+                    "start": "2018-09-07T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>Students anticipating to graduate&nbsp;December&nbsp;2018 must file a&nbsp;<b><a href=\"http://www.shsu.edu/dept/registrar/graduation/apply-to-graduate/application-for-degree.html\">degree application online through&nbsp;MySam</a></b> by&nbsp;Friday, September 7. Learn&nbsp;<b><a href=\"http://www.shsu.edu/dept/registrar/graduation/apply-to-graduate/how-to-apply.html\">how to apply</a>.&nbsp;</b></p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/deadline_for_fall_2018_degree_applications",
+            "localist_ics_url": "https://events.shsu.edu/event/deadline_for_fall_2018_degree_applications.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107468,
+            "title": "Last Day to Submit a Graduate Certificate Completion Form to the Office of Graduate Studies",
+            "url": "",
+            "updated_at": "2018-09-08T06:02:35-05:00",
+            "created_at": "2017-11-14T11:27:56-06:00",
+            "facebook_id": null,
+            "first_date": "2018-09-07",
+            "last_date": "2018-09-07",
+            "hashtag": "",
+            "urlname": "last_day_to_submit_a_graduate_certificate_completion_form_to_the_office_of_graduate_studies_6402",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["graduate certificate completion deadline fall 2018"],
+            "tags": ["fall2018"],
+            "description_text": "",
+            "photo_id": 444455,
+            "detail_views": 459,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163007,
+                    "ranking": 0,
+                    "event_id": 1107468,
+                    "start": "2018-09-07T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/last_day_to_submit_a_graduate_certificate_completion_form_to_the_office_of_graduate_studies_6402",
+            "localist_ics_url": "https://events.shsu.edu/event/last_day_to_submit_a_graduate_certificate_completion_form_to_the_office_of_graduate_studies_6402.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107482,
+            "title": "Twelfth Class Day - Last Day to Drop Without a \"Q\" by 11:59 PM and Receive 100% Refund",
+            "url": "",
+            "updated_at": "2018-09-08T06:02:35-05:00",
+            "created_at": "2017-11-14T11:32:17-06:00",
+            "facebook_id": null,
+            "first_date": "2018-09-07",
+            "last_date": "2018-09-07",
+            "hashtag": "",
+            "urlname": "twelfth_class_day_-_last_day_to_drop_without_a_q_and_receive_100_refund_6336",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["drop deadline fall", "fall q deadline", "add drop deadline", "fall 2018 q drop deadline"],
+            "tags": ["fall2018"],
+            "description_text": "Note: Dropping a full schedule constitutes a resignation, not a drop.\n\nClick the following link to see Sam Houston State University's limitation of Q Drops.",
+            "photo_id": 444455,
+            "detail_views": 476,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163026,
+                    "ranking": 0,
+                    "event_id": 1107482,
+                    "start": "2018-09-07T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p><b>Note: </b>Dropping a full schedule constitutes a <a href=\"http://www.shsu.edu/dept/registrar/students/registration/resignations-refunds-drops.html\">resignation</a>, not a drop.</p>\r\n\r\n<p>Click the following link to see Sam Houston State University&#39;s<b>&nbsp;<a href=\"http://www.shsu.edu/dept/registrar/students/registration/resignations-refunds-drops.html\">limitation&nbsp;of Q Drops</a>.&nbsp;</b></p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/twelfth_class_day_-_last_day_to_drop_without_a_q_and_receive_100_refund_6336",
+            "localist_ics_url": "https://events.shsu.edu/event/twelfth_class_day_-_last_day_to_drop_without_a_q_and_receive_100_refund_6336.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1303631,
+            "title": "Academic Advisement Opens for Spring 2019 Term",
+            "url": "",
+            "updated_at": "2018-09-11T08:09:53-05:00",
+            "created_at": "2018-06-04T11:22:52-05:00",
+            "facebook_id": null,
+            "first_date": "2018-09-10",
+            "last_date": "2018-09-10",
+            "hashtag": "",
+            "urlname": "academic_advisement_opens_for_spring_2019_term",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 591837,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": [],
+            "tags": ["fall2018"],
+            "description_text": "Students may contact the SAM Center to schedule an advising appointment.",
+            "photo_id": 456809,
+            "detail_views": 1274,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3666040,
+                    "ranking": 0,
+                    "event_id": 1303631,
+                    "start": "2018-09-10T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>Students may contact the <a href=\"http://www.shsu.edu/centers/sam-center/advising/index.html\">SAM Center </a>to schedule an advising appointment.</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/academic_advisement_opens_for_spring_2019_term",
+            "localist_ics_url": "https://events.shsu.edu/event/academic_advisement_opens_for_spring_2019_term.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/456809/huge/c739af7a28e2832f0b41a46a196687ad5f579c3d.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107491,
+            "title": "Deadline to Submit Draft Thesis/Dissertation to Library for Format and Style Review",
+            "url": "",
+            "updated_at": "2018-09-29T05:17:18-05:00",
+            "created_at": "2017-11-14T11:36:05-06:00",
+            "facebook_id": null,
+            "first_date": "2018-09-28",
+            "last_date": "2018-09-28",
+            "hashtag": "",
+            "urlname": "deadline_to_submit_draft_thesisdissertation_to_library_for_format_and_style_review_4134",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": [],
+            "tags": ["fall2018"],
+            "description_text": "See Thesis & Dissertation website for more information",
+            "photo_id": 444455,
+            "detail_views": 221,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163040,
+                    "ranking": 0,
+                    "event_id": 1107491,
+                    "start": "2018-09-28T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p><a href=\"http://shsulibraryguides.org/thesisguide/checklist_and_deadlines\">See Thesis &amp; Dissertation website for more information</a></p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/deadline_to_submit_draft_thesisdissertation_to_library_for_format_and_style_review_4134",
+            "localist_ics_url": "https://events.shsu.edu/event/deadline_to_submit_draft_thesisdissertation_to_library_for_format_and_style_review_4134.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107492,
+            "title": "Last Day to Q Drop 7 1/2 (A) Week Courses by 11:59 PM",
+            "url": "",
+            "updated_at": "2018-10-06T05:18:50-05:00",
+            "created_at": "2017-11-14T11:36:48-06:00",
+            "facebook_id": null,
+            "first_date": "2018-10-05",
+            "last_date": "2018-10-05",
+            "hashtag": "",
+            "urlname": "last_day_to_q_drop_7_12_a_week_courses_5479",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["7 a drop deadline fall 2018"],
+            "tags": ["fall2018"],
+            "description_text": "Deadline to Drop 7 1/2 (A) Week Fall Courses or Labs with a \"Q\" grade\n\nNotes:\n\n- Students will not be permitted to drop 7 1/2 (A) week courses after this date - they will receive the grade they have earned \n\n- Dropping full schedule constitutes a resignation, not a drop\n\n- Limitation of Q Drops at Sam Houston State University",
+            "photo_id": 444455,
+            "detail_views": 203,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163047,
+                    "ranking": 0,
+                    "event_id": 1107492,
+                    "start": "2018-10-05T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>Deadline to Drop 7 1/2 (A) Week Fall Courses or Labs with a &quot;Q&quot; grade</p>\r\n\r\n<p><b>Notes:</b></p>\r\n\r\n<p><b>-</b> Students will not be permitted to drop 7 1/2 (A) week courses after this date - they will receive the grade they have earned&nbsp;</p>\r\n\r\n<p><b>-&nbsp;</b>Dropping full schedule constitutes a&nbsp;<b><a href=\"http://www.shsu.edu/dept/registrar/students/registration/resignations-refunds-drops.html\">resignation</a></b>, not a drop</p>\r\n\r\n<p><b>-&nbsp;<a href=\"http://www.shsu.edu/dept/registrar/students/registration/resignations-refunds-drops.html\">Limitation&nbsp;of Q Drops</a>&nbsp;</b>at&nbsp;Sam Houston State University&nbsp;</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/last_day_to_q_drop_7_12_a_week_courses_5479",
+            "localist_ics_url": "https://events.shsu.edu/event/last_day_to_q_drop_7_12_a_week_courses_5479.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107496,
+            "title": "Last Class Day for 7 1/2 (A) Week Courses; Last Day to Resign 7 1/2 (A)",
+            "url": "",
+            "updated_at": "2018-10-16T05:17:09-05:00",
+            "created_at": "2017-11-14T11:38:22-06:00",
+            "facebook_id": null,
+            "first_date": "2018-10-15",
+            "last_date": "2018-10-15",
+            "hashtag": "",
+            "urlname": "last_class_day_for_7_12_a_week_courses_195",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["last class day for 7A  fall 2018"],
+            "tags": ["fall2018"],
+            "description_text": "- Resignation Policies",
+            "photo_id": 444455,
+            "detail_views": 156,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163061,
+                    "ranking": 0,
+                    "event_id": 1107496,
+                    "start": "2018-10-15T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p><a href=\"http://www.shsu.edu/dept/registrar/students/registration/resignations-refunds-drops.html\">- Resignation Policies</a></p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/last_class_day_for_7_12_a_week_courses_195",
+            "localist_ics_url": "https://events.shsu.edu/event/last_class_day_for_7_12_a_week_courses_195.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1112190,
+            "title": "Final Examinations for 7 1/2 (A) Week Courses",
+            "url": "",
+            "updated_at": "2018-10-17T05:19:27-05:00",
+            "created_at": "2017-11-16T16:34:32-06:00",
+            "facebook_id": null,
+            "first_date": "2018-10-16",
+            "last_date": "2018-10-16",
+            "hashtag": "",
+            "urlname": "final_examinations_for_7_12_a_week_courses_354",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 189721,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["finals 7A", "final exams 7A fall 2018"],
+            "tags": ["fall2018"],
+            "description_text": "",
+            "photo_id": 444455,
+            "detail_views": 223,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3171147,
+                    "ranking": 0,
+                    "event_id": 1112190,
+                    "start": "2018-10-16T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/final_examinations_for_7_12_a_week_courses_354",
+            "localist_ics_url": "https://events.shsu.edu/event/final_examinations_for_7_12_a_week_courses_354.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107501,
+            "title": "12:00 Noon - Deadline for Filing 7 1/2 (A) Grades with Registrar's Office",
+            "url": "",
+            "updated_at": "2018-10-18T05:17:30-05:00",
+            "created_at": "2017-11-14T11:39:59-06:00",
+            "facebook_id": null,
+            "first_date": "2018-10-17",
+            "last_date": "2018-10-17",
+            "hashtag": "",
+            "urlname": "1200_noon_-_deadline_for_filing_7_12_a_grades_with_registrars_office_2845",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 644124,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["final grades 7A Fall 2018"],
+            "tags": ["fall2018"],
+            "description_text": "",
+            "photo_id": 444455,
+            "detail_views": 146,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163066,
+                    "ranking": 0,
+                    "event_id": 1107501,
+                    "start": "2018-10-17T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/1200_noon_-_deadline_for_filing_7_12_a_grades_with_registrars_office_2845",
+            "localist_ics_url": "https://events.shsu.edu/event/1200_noon_-_deadline_for_filing_7_12_a_grades_with_registrars_office_2845.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107502,
+            "title": "First Class Day 7 1/2 (B) Week Courses",
+            "url": "",
+            "updated_at": "2018-10-18T05:17:31-05:00",
+            "created_at": "2017-11-14T11:41:02-06:00",
+            "facebook_id": null,
+            "first_date": "2018-10-17",
+            "last_date": "2018-10-17",
+            "hashtag": "",
+            "urlname": "first_class_day_7_12_b_week_courses_3683",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 620449,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["first class day 7B fall 2018"],
+            "tags": ["fall2018"],
+            "description_text": "",
+            "photo_id": 444455,
+            "detail_views": 370,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163068,
+                    "ranking": 0,
+                    "event_id": 1107502,
+                    "start": "2018-10-17T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/first_class_day_7_12_b_week_courses_3683",
+            "localist_ics_url": "https://events.shsu.edu/event/first_class_day_7_12_b_week_courses_3683.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1147382,
+            "title": "Last Day to Register and to Process Schedule Changes for 7 1/2 (B) Week Courses by 11:59 PM",
+            "url": "",
+            "updated_at": "2018-10-19T05:28:50-05:00",
+            "created_at": "2018-01-05T08:19:29-06:00",
+            "facebook_id": null,
+            "first_date": "2018-10-18",
+            "last_date": "2018-10-18",
+            "hashtag": "",
+            "urlname": "last_day_to_register_and_to_process_schedule_changes_for_7_12_a_week_courses",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["registration deadline", "last day to register online", "registration deadline fall 2018"],
+            "tags": ["fall2018"],
+            "description_text": "No registration permitted past this deadline",
+            "photo_id": 444455,
+            "detail_views": 341,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3251727,
+                    "ranking": 0,
+                    "event_id": 1147382,
+                    "start": "2018-10-18T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>No registration permitted past this deadline</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/last_day_to_register_and_to_process_schedule_changes_for_7_12_a_week_courses",
+            "localist_ics_url": "https://events.shsu.edu/event/last_day_to_register_and_to_process_schedule_changes_for_7_12_a_week_courses.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1112192,
+            "title": "Last Day to Complete a Public Defense of the Thesis/Dissertation. Start Electronic Route Sheet. Letter Requesting a Permanent Embargo for Electronic Thesis/Dissertations Must Be Submitted to the Dean of Graduate Studies by This Date.",
+            "url": "",
+            "updated_at": "2018-10-27T05:15:51-05:00",
+            "created_at": "2017-11-16T16:36:34-06:00",
+            "facebook_id": null,
+            "first_date": "2018-10-26",
+            "last_date": "2018-10-26",
+            "hashtag": "",
+            "urlname": "last_day_to_complete_a_public_defense_of_the_thesisdissertation_start_electronic_route_sheet_letter_requesting_a_permanent_embargo_for_electronic_thesisdissertations_must_be_submitted_to_the_dean_of_graduate_studies_by_this_date_7605",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": [],
+            "tags": ["fall2018"],
+            "description_text": "See Thesis & Dissertation website for more information",
+            "photo_id": 444455,
+            "detail_views": 161,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3171152,
+                    "ranking": 0,
+                    "event_id": 1112192,
+                    "start": "2018-10-26T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p><a href=\"http://shsulibraryguides.org/thesisguide/checklist_and_deadlines\">See Thesis &amp; Dissertation website for more information</a></p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/last_day_to_complete_a_public_defense_of_the_thesisdissertation_start_electronic_route_sheet_letter_requesting_a_permanent_embargo_for_electronic_thesisdissertations_must_be_submitted_to_the_dean_of_graduate_studies_by_this_date_7605",
+            "localist_ics_url": "https://events.shsu.edu/event/last_day_to_complete_a_public_defense_of_the_thesisdissertation_start_electronic_route_sheet_letter_requesting_a_permanent_embargo_for_electronic_thesisdissertations_must_be_submitted_to_the_dean_of_graduate_studies_by_this_date_7605.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1241656,
+            "title": "Advanced Registration Begins for Spring 2019",
+            "url": "",
+            "updated_at": "2018-11-02T07:05:05-05:00",
+            "created_at": "2018-03-27T09:33:33-05:00",
+            "facebook_id": null,
+            "first_date": "2018-11-01",
+            "last_date": "2018-11-01",
+            "hashtag": "",
+            "urlname": "advanced_registration_begins_for_spring_2019_9645",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 579713,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["spring registration opening", "spring 2019 registration opening"],
+            "tags": ["fall2018"],
+            "description_text": "See the Advance Registration Schedule for details on registering by classification and the breakdown of registration times by alpha schedule. \n\nFor additional course schedule information, refer to the Schedule of Classes.",
+            "photo_id": 456809,
+            "detail_views": 951,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3783488,
+                    "ranking": 0,
+                    "event_id": 1241656,
+                    "start": "2018-11-01T00:00:00-05:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>See the <a href=\"http://www.shsu.edu/dept/registrar/calendars/advance-registration.html\">Advance Registration Schedule </a>for details on registering by classification&nbsp;and the breakdown of registration times by alpha schedule.&nbsp;</p>\r\n\r\n<p>For additional course schedule information,&nbsp;refer to the <a href=\"http://www.shsu.edu/academics/current-schedule-of-classes.html\">Schedule of Classes</a>.</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {},
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/advanced_registration_begins_for_spring_2019_9645",
+            "localist_ics_url": "https://events.shsu.edu/event/advanced_registration_begins_for_spring_2019_9645.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/456809/huge/c739af7a28e2832f0b41a46a196687ad5f579c3d.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107521,
+            "title": "Last Day to Submit Defended and Approved Thesis/Dissertation to the Library for Final Draft Review",
+            "url": "",
+            "updated_at": "2018-11-04T05:17:29-06:00",
+            "created_at": "2017-11-14T11:58:05-06:00",
+            "facebook_id": null,
+            "first_date": "2018-11-07",
+            "last_date": "2018-11-07",
+            "hashtag": "",
+            "urlname": "last_day_to_submit_defended_and_approved_thesisdissertation_to_the_library_for_final_draft_review",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": [],
+            "tags": ["fall2018"],
+            "description_text": "See Thesis & Dissertation website for more information",
+            "photo_id": 444455,
+            "detail_views": 106,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163096,
+                    "ranking": 0,
+                    "event_id": 1107521,
+                    "start": "2018-11-07T00:00:00-06:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p><a href=\"http://shsulibraryguides.org/thesisguide/checklist_and_deadlines\">See Thesis &amp; Dissertation website for more information</a></p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/last_day_to_submit_defended_and_approved_thesisdissertation_to_the_library_for_final_draft_review",
+            "localist_ics_url": "https://events.shsu.edu/event/last_day_to_submit_defended_and_approved_thesisdissertation_to_the_library_for_final_draft_review.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107524,
+            "title": "Last Day to Drop Full-Term Courses with a \"Q\" by 11:59 PM",
+            "url": "",
+            "updated_at": "2018-11-04T05:17:29-06:00",
+            "created_at": "2017-11-14T12:00:03-06:00",
+            "facebook_id": null,
+            "first_date": "2018-11-09",
+            "last_date": "2018-11-09",
+            "hashtag": "",
+            "urlname": "last_day_to_drop_full-term_courses_with_a_q_5572",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 162493,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["fall 2017 q drop deadline", "fall 2018 drop deadline"],
+            "tags": ["fall2018"],
+            "description_text": "Deadline to Drop 15-Week Fall Courses or Labs with a \"Q\" grade\n\nNotes:\n\n- Students will not be permitted to drop 15-week courses after this date - they will receive the grade they have earned \n\n- Dropping full schedule constitutes a resignation, not a drop\n\n- Limitation of Q Drops at Sam Houston State University",
+            "photo_id": 444455,
+            "detail_views": 484,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163098,
+                    "ranking": 0,
+                    "event_id": 1107524,
+                    "start": "2018-11-09T00:00:00-06:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>Deadline to Drop 15-Week Fall Courses or Labs with a &quot;Q&quot; grade</p>\r\n\r\n<p><b>Notes:</b></p>\r\n\r\n<p><b>-</b> Students will not be permitted to drop 15-week courses after this date - they will receive the grade they have earned&nbsp;</p>\r\n\r\n<p><b>-&nbsp;</b>Dropping full schedule constitutes a&nbsp;<b><a href=\"http://www.shsu.edu/dept/registrar/students/registration/resignations-refunds-drops.html\">resignation</a></b>, not a drop</p>\r\n\r\n<p><b>-&nbsp;<a href=\"http://www.shsu.edu/dept/registrar/students/registration/resignations-refunds-drops.html\">Limitation&nbsp;of Q Drops</a>&nbsp;</b>at&nbsp;Sam Houston State University&nbsp;</p>\r\n",
+            "featured": true,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/last_day_to_drop_full-term_courses_with_a_q_5572",
+            "localist_ics_url": "https://events.shsu.edu/event/last_day_to_drop_full-term_courses_with_a_q_5572.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107525,
+            "title": "Last Day to Complete Publication of Thesis/Dissertation through Vireo (or in Print for Permanent Embargo Students). Last Day to Submit Electronic Route Sheet to the Director of the Library.",
+            "url": "",
+            "updated_at": "2018-11-04T05:17:29-06:00",
+            "created_at": "2017-11-14T12:01:13-06:00",
+            "facebook_id": null,
+            "first_date": "2018-11-14",
+            "last_date": "2018-11-14",
+            "hashtag": "",
+            "urlname": "last_day_to_complete_publication_of_thesisdissertation_through_vireo_or_in_print_for_permanent_embargo_students_last_day_to_submit_electronic_route_sheet_to_the_director_of_the_library",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": [],
+            "tags": ["fall2018"],
+            "description_text": "See Thesis & Dissertation website for more information",
+            "photo_id": 444455,
+            "detail_views": 94,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163100,
+                    "ranking": 0,
+                    "event_id": 1107525,
+                    "start": "2018-11-14T00:00:00-06:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p><a href=\"http://shsulibraryguides.org/thesisguide/checklist_and_deadlines\">See Thesis &amp; Dissertation website for more information</a></p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/last_day_to_complete_publication_of_thesisdissertation_through_vireo_or_in_print_for_permanent_embargo_students_last_day_to_submit_electronic_route_sheet_to_the_director_of_the_library",
+            "localist_ics_url": "https://events.shsu.edu/event/last_day_to_complete_publication_of_thesisdissertation_through_vireo_or_in_print_for_permanent_embargo_students_last_day_to_submit_electronic_route_sheet_to_the_director_of_the_library.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107537,
+            "title": "Last Day to Q Drop 7 1/2 (B) Week Courses by 11:59 PM",
+            "url": "",
+            "updated_at": "2018-10-29T09:25:11-05:00",
+            "created_at": "2017-11-14T12:14:19-06:00",
+            "facebook_id": null,
+            "first_date": "2018-11-16",
+            "last_date": "2018-11-16",
+            "hashtag": "",
+            "urlname": "last_day_to_q_drop_7_12_b_week_courses_8178",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 610963,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["q drop deadline 7b fall 2018"],
+            "tags": ["fall2018"],
+            "description_text": "Deadline to Drop 7 1/2 (B) Week Fall Courses or Labs with a \"Q\" grade\n\nNotes:\n\n- Students will not be permitted to drop 7 1/2 (B) week courses after this date - they will receive the grade they have earned \n\n- Dropping full schedule constitutes a resignation, not a drop\n\n- Limitation of Q Drops at Sam Houston State University",
+            "photo_id": 444455,
+            "detail_views": 102,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163144,
+                    "ranking": 0,
+                    "event_id": 1107537,
+                    "start": "2018-11-16T00:00:00-06:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>Deadline to Drop 7 1/2 (B) Week Fall Courses or Labs with a &quot;Q&quot; grade</p>\r\n\r\n<p><b>Notes:</b></p>\r\n\r\n<p><b>-</b> Students will not be permitted to drop 7 1/2 (B) week courses after this date - they will receive the grade they have earned&nbsp;</p>\r\n\r\n<p><b>-&nbsp;</b>Dropping full schedule constitutes a&nbsp;<b><a href=\"http://www.shsu.edu/dept/registrar/students/registration/resignations-refunds-drops.html\">resignation</a></b>, not a drop</p>\r\n\r\n<p><b>-&nbsp;<a href=\"http://www.shsu.edu/dept/registrar/students/registration/resignations-refunds-drops.html\">Limitation&nbsp;of Q Drops</a>&nbsp;</b>at&nbsp;Sam Houston State University&nbsp;</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/last_day_to_q_drop_7_12_b_week_courses_8178",
+            "localist_ics_url": "https://events.shsu.edu/event/last_day_to_q_drop_7_12_b_week_courses_8178.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107538,
+            "title": "Thanksgiving Holidays for Students and Faculty",
+            "url": "",
+            "updated_at": "2018-10-26T16:24:31-05:00",
+            "created_at": "2017-11-14T12:15:30-06:00",
+            "facebook_id": null,
+            "first_date": "2018-11-21",
+            "last_date": "2018-11-23",
+            "hashtag": "",
+            "urlname": "thanksgiving_holidays_for_students_and_faculty_3130",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 162493,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["thanksgiving fall 2018"],
+            "tags": ["fall2018"],
+            "description_text": "",
+            "photo_id": 444455,
+            "detail_views": 1261,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163248,
+                    "ranking": 0,
+                    "event_id": 1107538,
+                    "start": "2018-11-21T00:00:00-06:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "",
+            "featured": true,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/thanksgiving_holidays_for_students_and_faculty_3130",
+            "localist_ics_url": "https://events.shsu.edu/event/thanksgiving_holidays_for_students_and_faculty_3130.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107538,
+            "title": "Thanksgiving Holidays for Students and Faculty",
+            "url": "",
+            "updated_at": "2018-10-26T16:24:31-05:00",
+            "created_at": "2017-11-14T12:15:30-06:00",
+            "facebook_id": null,
+            "first_date": "2018-11-21",
+            "last_date": "2018-11-23",
+            "hashtag": "",
+            "urlname": "thanksgiving_holidays_for_students_and_faculty_3130",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 162493,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["thanksgiving fall 2018"],
+            "tags": ["fall2018"],
+            "description_text": "",
+            "photo_id": 444455,
+            "detail_views": 1261,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163250,
+                    "ranking": 0,
+                    "event_id": 1107538,
+                    "start": "2018-11-22T00:00:00-06:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "",
+            "featured": true,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/thanksgiving_holidays_for_students_and_faculty_3130",
+            "localist_ics_url": "https://events.shsu.edu/event/thanksgiving_holidays_for_students_and_faculty_3130.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107538,
+            "title": "Thanksgiving Holidays for Students and Faculty",
+            "url": "",
+            "updated_at": "2018-10-26T16:24:31-05:00",
+            "created_at": "2017-11-14T12:15:30-06:00",
+            "facebook_id": null,
+            "first_date": "2018-11-21",
+            "last_date": "2018-11-23",
+            "hashtag": "",
+            "urlname": "thanksgiving_holidays_for_students_and_faculty_3130",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 162493,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["thanksgiving fall 2018"],
+            "tags": ["fall2018"],
+            "description_text": "",
+            "photo_id": 444455,
+            "detail_views": 1261,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163251,
+                    "ranking": 0,
+                    "event_id": 1107538,
+                    "start": "2018-11-23T00:00:00-06:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "",
+            "featured": true,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/thanksgiving_holidays_for_students_and_faculty_3130",
+            "localist_ics_url": "https://events.shsu.edu/event/thanksgiving_holidays_for_students_and_faculty_3130.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107643,
+            "title": "Classes Resume",
+            "url": "",
+            "updated_at": "2018-06-21T02:54:46-05:00",
+            "created_at": "2017-11-14T12:18:53-06:00",
+            "facebook_id": null,
+            "first_date": "2018-11-26",
+            "last_date": "2018-11-26",
+            "hashtag": "",
+            "urlname": "classes_resume",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 189721,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": [],
+            "tags": ["fall2018"],
+            "description_text": "",
+            "photo_id": 444455,
+            "detail_views": 148,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163264,
+                    "ranking": 0,
+                    "event_id": 1107643,
+                    "start": "2018-11-26T00:00:00-06:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/classes_resume",
+            "localist_ics_url": "https://events.shsu.edu/event/classes_resume.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107644,
+            "title": "Last Day to Submit Electronic Route Sheet to the Dean of Graduate Studies (Thesis / Dissertation).",
+            "url": "",
+            "updated_at": "2017-11-14T12:25:06-06:00",
+            "created_at": "2017-11-14T12:19:42-06:00",
+            "facebook_id": null,
+            "first_date": "2018-11-27",
+            "last_date": "2018-11-27",
+            "hashtag": "",
+            "urlname": "last_day_to_submit_electronic_route_sheet_to_the_dean_of_graduate_studies_thesis_dissertation",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": [],
+            "tags": ["fall2018"],
+            "description_text": "",
+            "photo_id": 452767,
+            "detail_views": 188,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163266,
+                    "ranking": 0,
+                    "event_id": 1107644,
+                    "start": "2018-11-27T00:00:00-06:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/last_day_to_submit_electronic_route_sheet_to_the_dean_of_graduate_studies_thesis_dissertation",
+            "localist_ics_url": "https://events.shsu.edu/event/last_day_to_submit_electronic_route_sheet_to_the_dean_of_graduate_studies_thesis_dissertation.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/452767/huge/6d4bb095b49e685929c083ae3535b4e6ea490701.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1147383,
+            "title": "Last Class Day",
+            "url": "",
+            "updated_at": "2018-10-29T09:25:15-05:00",
+            "created_at": "2018-01-05T08:21:39-06:00",
+            "facebook_id": null,
+            "first_date": "2018-11-30",
+            "last_date": "2018-11-30",
+            "hashtag": "",
+            "urlname": "last_class_day_last_day_to_resign_by_500_pm_in_the_registrars_office_442",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 610963,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["fall 2018 last class day"],
+            "tags": ["fall2018"],
+            "description_text": "",
+            "photo_id": 444455,
+            "detail_views": 342,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3251728,
+                    "ranking": 0,
+                    "event_id": 1147383,
+                    "start": "2018-11-30T00:00:00-06:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/last_class_day_last_day_to_resign_by_500_pm_in_the_registrars_office_442",
+            "localist_ics_url": "https://events.shsu.edu/event/last_class_day_last_day_to_resign_by_500_pm_in_the_registrars_office_442.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107645,
+            "title": "Last Day to Resign by 5:00 PM in the Registrar's Office",
+            "url": "",
+            "updated_at": "2018-01-05T11:54:30-06:00",
+            "created_at": "2017-11-14T12:21:28-06:00",
+            "facebook_id": null,
+            "first_date": "2018-11-30",
+            "last_date": "2018-11-30",
+            "hashtag": "",
+            "urlname": "last_class_day_last_day_to_resign_by_500_pm_in_the_registrars_office_4664",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 225012,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["fall 2018 resignation deadline", "last day resign fall 2018"],
+            "tags": ["fall2018"],
+            "description_text": "- Resignation Policies",
+            "photo_id": 444455,
+            "detail_views": 192,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163272,
+                    "ranking": 0,
+                    "event_id": 1107645,
+                    "start": "2018-11-30T00:00:00-06:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>- <a href=\"http://www.shsu.edu/dept/registrar/students/registration/resignations-refunds-drops.html\">Resignation Policies</a></p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/last_class_day_last_day_to_resign_by_500_pm_in_the_registrars_office_4664",
+            "localist_ics_url": "https://events.shsu.edu/event/last_class_day_last_day_to_resign_by_500_pm_in_the_registrars_office_4664.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107649,
+            "title": "Final Examinations",
+            "url": "",
+            "updated_at": "2018-11-02T14:54:26-05:00",
+            "created_at": "2017-11-14T12:25:24-06:00",
+            "facebook_id": null,
+            "first_date": "2018-12-03",
+            "last_date": "2018-12-06",
+            "hashtag": "",
+            "urlname": "final_examinations_1448",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 655438,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["fall 2018 final exams", "fall 18 finals"],
+            "tags": ["fall2018"],
+            "description_text": "Includes Monday Night (MN), Tuesday Night (TuN), Wednesday Night (WN), Thursday Night (ThN), Friday Night (FN) and Saturday Classes Final Examinations",
+            "photo_id": 444455,
+            "detail_views": 1513,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163281,
+                    "ranking": 0,
+                    "event_id": 1107649,
+                    "start": "2018-12-03T00:00:00-06:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>Includes Monday Night (MN), Tuesday Night (TuN), Wednesday Night (WN), Thursday Night (ThN), Friday Night (FN) and Saturday Classes Final Examinations</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/final_examinations_1448",
+            "localist_ics_url": "https://events.shsu.edu/event/final_examinations_1448.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107649,
+            "title": "Final Examinations",
+            "url": "",
+            "updated_at": "2018-11-02T14:54:26-05:00",
+            "created_at": "2017-11-14T12:25:24-06:00",
+            "facebook_id": null,
+            "first_date": "2018-12-03",
+            "last_date": "2018-12-06",
+            "hashtag": "",
+            "urlname": "final_examinations_1448",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 655438,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["fall 2018 final exams", "fall 18 finals"],
+            "tags": ["fall2018"],
+            "description_text": "Includes Monday Night (MN), Tuesday Night (TuN), Wednesday Night (WN), Thursday Night (ThN), Friday Night (FN) and Saturday Classes Final Examinations",
+            "photo_id": 444455,
+            "detail_views": 1513,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163282,
+                    "ranking": 0,
+                    "event_id": 1107649,
+                    "start": "2018-12-04T00:00:00-06:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>Includes Monday Night (MN), Tuesday Night (TuN), Wednesday Night (WN), Thursday Night (ThN), Friday Night (FN) and Saturday Classes Final Examinations</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/final_examinations_1448",
+            "localist_ics_url": "https://events.shsu.edu/event/final_examinations_1448.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107649,
+            "title": "Final Examinations",
+            "url": "",
+            "updated_at": "2018-11-02T14:54:26-05:00",
+            "created_at": "2017-11-14T12:25:24-06:00",
+            "facebook_id": null,
+            "first_date": "2018-12-03",
+            "last_date": "2018-12-06",
+            "hashtag": "",
+            "urlname": "final_examinations_1448",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 655438,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["fall 2018 final exams", "fall 18 finals"],
+            "tags": ["fall2018"],
+            "description_text": "Includes Monday Night (MN), Tuesday Night (TuN), Wednesday Night (WN), Thursday Night (ThN), Friday Night (FN) and Saturday Classes Final Examinations",
+            "photo_id": 444455,
+            "detail_views": 1513,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163283,
+                    "ranking": 0,
+                    "event_id": 1107649,
+                    "start": "2018-12-05T00:00:00-06:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>Includes Monday Night (MN), Tuesday Night (TuN), Wednesday Night (WN), Thursday Night (ThN), Friday Night (FN) and Saturday Classes Final Examinations</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/final_examinations_1448",
+            "localist_ics_url": "https://events.shsu.edu/event/final_examinations_1448.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107649,
+            "title": "Final Examinations",
+            "url": "",
+            "updated_at": "2018-11-02T14:54:26-05:00",
+            "created_at": "2017-11-14T12:25:24-06:00",
+            "facebook_id": null,
+            "first_date": "2018-12-03",
+            "last_date": "2018-12-06",
+            "hashtag": "",
+            "urlname": "final_examinations_1448",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 655438,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["fall 2018 final exams", "fall 18 finals"],
+            "tags": ["fall2018"],
+            "description_text": "Includes Monday Night (MN), Tuesday Night (TuN), Wednesday Night (WN), Thursday Night (ThN), Friday Night (FN) and Saturday Classes Final Examinations",
+            "photo_id": 444455,
+            "detail_views": 1513,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163284,
+                    "ranking": 0,
+                    "event_id": 1107649,
+                    "start": "2018-12-06T00:00:00-06:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "<p>Includes Monday Night (MN), Tuesday Night (TuN), Wednesday Night (WN), Thursday Night (ThN), Friday Night (FN) and Saturday Classes Final Examinations</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/final_examinations_1448",
+            "localist_ics_url": "https://events.shsu.edu/event/final_examinations_1448.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107653,
+            "title": "Commencement, Bernard G. Johnson Coliseum",
+            "url": "",
+            "updated_at": "2018-09-28T21:54:24-05:00",
+            "created_at": "2017-11-14T12:27:31-06:00",
+            "facebook_id": null,
+            "first_date": "2018-12-07",
+            "last_date": "2018-12-08",
+            "hashtag": "",
+            "urlname": "commencement_bernard_g_johnson_coliseum_5317",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "Bernard G. Johnson Coliseum",
+            "created_by": 225012,
+            "updated_by": 629378,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": 163467,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["fall commencement", "fall graduation", "commencement fall 2018", "graduation fall 2018"],
+            "tags": ["fall2018"],
+            "description_text": "“Fall 2018 Commencement Schedule: TBD\n\nThe commencement schedule will remain TBD until approximately two weeks after the graduation application deadline. Once a general number of graduating students is determined, Academic Affairs/Office of the Provost will determine the commencement schedule. This entry will be updated as soon as the commencement schedule has been released by the Office of the Provost.”",
+            "photo_id": 444455,
+            "detail_views": 2271,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163413,
+                    "ranking": 0,
+                    "event_id": 1107653,
+                    "start": "2018-12-07T00:00:00-06:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "1964 Bobby K. Marks Drive Huntsville, Texas 77340",
+            "description": "<p>&ldquo;Fall 2018 Commencement Schedule: TBD</p>\r\n\r\n<p>The commencement schedule will remain TBD until approximately two weeks after the <a href=\"http://www.shsu.edu/dept/registrar/graduation/apply-to-graduate/how-to-apply.html\"><u>graduation </u><span><u>application deadline</u></span></a>. Once a general number of graduating students is determined, Academic Affairs/Office of the Provost will determine the commencement schedule. This entry will be updated as soon as the commencement schedule has been released by the Office of the Provost.&rdquo;</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": "30.712788",
+                "longitude": "-95.546173",
+                "street": "1964 Avenue H",
+                "city": "Huntsville",
+                "state": "TX",
+                "country": "US",
+                "zip": "77340"
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/commencement_bernard_g_johnson_coliseum_5317",
+            "localist_ics_url": "https://events.shsu.edu/event/commencement_bernard_g_johnson_coliseum_5317.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": "https://events.shsu.edu/bernard_g_johnson_coliseum_774"
+        }
+    }, {
+        "event": {
+            "id": 1107666,
+            "title": "Residence Halls Close at 12:00 Noon",
+            "url": "",
+            "updated_at": "2018-10-29T09:25:11-05:00",
+            "created_at": "2017-11-14T12:41:50-06:00",
+            "facebook_id": null,
+            "first_date": "2018-12-07",
+            "last_date": "2018-12-07",
+            "hashtag": "",
+            "urlname": "residence_halls_close_at_1200_noon_3050",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 610963,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["dorms close", "dorms close fall", "dorm close"],
+            "tags": ["fall2018"],
+            "description_text": "",
+            "photo_id": 444455,
+            "detail_views": 547,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163448,
+                    "ranking": 0,
+                    "event_id": 1107666,
+                    "start": "2018-12-07T00:00:00-06:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/residence_halls_close_at_1200_noon_3050",
+            "localist_ics_url": "https://events.shsu.edu/event/residence_halls_close_at_1200_noon_3050.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }, {
+        "event": {
+            "id": 1107653,
+            "title": "Commencement, Bernard G. Johnson Coliseum",
+            "url": "",
+            "updated_at": "2018-09-28T21:54:24-05:00",
+            "created_at": "2017-11-14T12:27:31-06:00",
+            "facebook_id": null,
+            "first_date": "2018-12-07",
+            "last_date": "2018-12-08",
+            "hashtag": "",
+            "urlname": "commencement_bernard_g_johnson_coliseum_5317",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "Bernard G. Johnson Coliseum",
+            "created_by": 225012,
+            "updated_by": 629378,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": 163467,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["fall commencement", "fall graduation", "commencement fall 2018", "graduation fall 2018"],
+            "tags": ["fall2018"],
+            "description_text": "“Fall 2018 Commencement Schedule: TBD\n\nThe commencement schedule will remain TBD until approximately two weeks after the graduation application deadline. Once a general number of graduating students is determined, Academic Affairs/Office of the Provost will determine the commencement schedule. This entry will be updated as soon as the commencement schedule has been released by the Office of the Provost.”",
+            "photo_id": 444455,
+            "detail_views": 2271,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163414,
+                    "ranking": 0,
+                    "event_id": 1107653,
+                    "start": "2018-12-08T00:00:00-06:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "1964 Bobby K. Marks Drive Huntsville, Texas 77340",
+            "description": "<p>&ldquo;Fall 2018 Commencement Schedule: TBD</p>\r\n\r\n<p>The commencement schedule will remain TBD until approximately two weeks after the <a href=\"http://www.shsu.edu/dept/registrar/graduation/apply-to-graduate/how-to-apply.html\"><u>graduation </u><span><u>application deadline</u></span></a>. Once a general number of graduating students is determined, Academic Affairs/Office of the Provost will determine the commencement schedule. This entry will be updated as soon as the commencement schedule has been released by the Office of the Provost.&rdquo;</p>\r\n",
+            "featured": false,
+            "geo": {
+                "latitude": "30.712788",
+                "longitude": "-95.546173",
+                "street": "1964 Avenue H",
+                "city": "Huntsville",
+                "state": "TX",
+                "country": "US",
+                "zip": "77340"
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/commencement_bernard_g_johnson_coliseum_5317",
+            "localist_ics_url": "https://events.shsu.edu/event/commencement_bernard_g_johnson_coliseum_5317.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": "https://events.shsu.edu/bernard_g_johnson_coliseum_774"
+        }
+    }, {
+        "event": {
+            "id": 1107668,
+            "title": "12:00 Noon - Deadline for Filing Grades with the Registrar's Office for all students, including all grades due for degree candidates (SH course grades, correspondence grades, and transfer grades).  Fall Term ends.",
+            "url": "",
+            "updated_at": "2018-10-29T09:25:11-05:00",
+            "created_at": "2017-11-14T12:42:57-06:00",
+            "facebook_id": null,
+            "first_date": "2018-12-10",
+            "last_date": "2018-12-10",
+            "hashtag": "",
+            "urlname": "1200_noon_-_deadline_for_filing_grades_with_the_registrars_office_for_all_students_including_all_grades_due_for_degree_candidates_sh_course_grades_correspondence_grades_and_transfer_grades_fall_term_ends_6869",
+            "user_id": 225012,
+            "directions": "",
+            "allows_reviews": false,
+            "allows_attendance": true,
+            "location": "",
+            "room_number": "",
+            "location_name": "",
+            "created_by": 225012,
+            "updated_by": 610963,
+            "city_id": null,
+            "neighborhood_id": null,
+            "school_id": 113,
+            "campus_id": null,
+            "recurring": false,
+            "free": true,
+            "private": false,
+            "verified": true,
+            "rejected": false,
+            "sponsored": false,
+            "venue_id": null,
+            "ticket_url": "",
+            "ticket_cost": "",
+            "keywords": ["final grades fall 2018", "end of fall 18", "end of fall 2018"],
+            "tags": ["fall2018"],
+            "description_text": "",
+            "photo_id": 444455,
+            "detail_views": 339,
+            "event_instances": [{
+                "event_instance": {
+                    "id": 3163451,
+                    "ranking": 0,
+                    "event_id": 1107668,
+                    "start": "2018-12-10T00:00:00-06:00",
+                    "end": null,
+                    "all_day": true
+                }
+            }],
+            "address": "",
+            "description": "",
+            "featured": false,
+            "geo": {
+                "latitude": null,
+                "longitude": null,
+                "street": null,
+                "city": null,
+                "state": null,
+                "country": null,
+                "zip": null
+            },
+            "filters": {
+                "departments": [{
+                    "name": "Registrar",
+                    "id": 37198
+                }],
+                "event_types": [{
+                    "name": "Academic Calendar",
+                    "id": 37279
+                }]
+            },
+            "custom_fields": {},
+            "localist_url": "https://events.shsu.edu/event/1200_noon_-_deadline_for_filing_grades_with_the_registrars_office_for_all_students_including_all_grades_due_for_degree_candidates_sh_course_grades_correspondence_grades_and_transfer_grades_fall_term_ends_6869",
+            "localist_ics_url": "https://events.shsu.edu/event/1200_noon_-_deadline_for_filing_grades_with_the_registrars_office_for_all_students_including_all_grades_due_for_degree_candidates_sh_course_grades_correspondence_grades_and_transfer_grades_fall_term_ends_6869.ics",
+            "photo_url": "https://d3e1o4bcbhmj8g.cloudfront.net/photos/444455/huge/f1b329666017a6f6171c1e5d135635ca9310d6ba.jpg",
+            "venue_url": null
+        }
+    }],
+    "page": {
+        "current": 1,
+        "size": 100,
+        "total": 1
+    },
+    "date": {
+        "first": "2018-02-01",
+        "last": "2018-12-31"
+    }
+})

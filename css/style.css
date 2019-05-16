@@ -1,0 +1,25 @@
+.wh{
+	color: white !important;
+}
+.header-topmargin{
+	margin: 21px;
+}
+.toggle_menu_custom
+{
+	display: none;
+}
+ul, li {
+	margin-left: 10px !important;
+}
+@media only screen and (max-width: 600px) {
+	.toggle_menu_custom{
+		display: block;
+		padding-left: 10p; background: white;font-size: 30px;
+
+	}
+	.navbar-toggler{
+		float: right;
+		background-color: white;
+	}
+}
+

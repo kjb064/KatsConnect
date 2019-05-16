@@ -1,0 +1,159 @@
+
+body {
+    background-color: #efefef;
+}
+
+h1{
+    text-align: center;
+}
+
+
+/*Modal styling follows */
+.modal-container{
+    float: right;
+    padding-left: 15px;
+}
+
+.modal-header, h4, .close {
+    background-color: #004990;
+    color:white !important;
+    text-align: center;
+    font-size: 30px;
+}
+.modal-footer {
+    background-color: #f9f9f9;
+}
+
+/* Tab styling follows */
+.nav-tabs{
+    background-color: white;
+    margin-bottom: 10px;
+    margin-top: 70px;
+    border: 1px solid black;
+}
+
+.tab-content {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.nav-tabs>.active>a, .nav-tabs>.active>a:hover, .nav-tabs>.active>a:focus {
+    border-color: black;
+    border-bottom-color: transparent;
+}
+
+/* Table styling follows */
+thead{
+    background-color: white;
+}
+
+div.table-container {
+    /*padding-left: 100px;*/
+    /*padding-top: 10px;*/
+    width: 100%;
+    /*float: right;*/
+    padding-bottom: 50px;
+}
+
+/* All nav bar styling follow */
+
+header nav {
+    width: 100%;
+    height: 60px;
+    background-color: #004990;
+}
+
+header nav ul {
+    float: left;
+}
+header nav ul li {
+    float: left;
+    list-style: none;
+}
+
+header nav ul li a {
+    position: relative;
+    top: 4px;
+    font-family: arial;
+    font-size: 14px;
+    color: #111111;
+    line-height: 63px;
+}
+
+header .nav-login {
+    float: right;
+}
+
+header .nav-login form {
+    float: left;
+    padding-top: 15px;
+}
+
+/*
+.navbar-brand{
+    padding: n;
+    float: left;
+    height: 50px;
+    font-size: 18px;
+    line-height: 20px;
+}
+*/
+
+header .nav-login form input {
+    float: left;
+    width: 140px;
+    height: 30px;
+    padding: 0px 10px;
+    margin-right: 10px;
+    border: none;
+    background-color: white;
+    font-family: arial;
+    font-size: 14px;
+    color: #111111;
+    line-height: 30px;
+}
+
+header .nav-login form button {
+    float: left;
+    width: 60px;
+    height: 30px;
+    margin-right: 10px;
+    border: none;
+    background-color: #f3f3f3;
+    font-family: arial;
+    font-size: 14px;
+    color: #111111;
+    cursor: pointer;
+}
+
+header .nav-login form button:hover {
+    background-color: #ccc;
+}
+
+header .nav-login a {
+    display: block;
+    float: left;
+    width: 60px;
+    height: 60px;
+    border: none;
+    background-color: #004990;
+    font-family: arial;
+    font-size: 14px;
+    color: white;
+    line-height: 63px;
+    cursor: pointer;
+}
+
+.nav.navbar-nav li a {
+    color: white;
+}
+.nav.navbar-nav li a:hover,
+.nav.navbar-nav li a:focus,
+.nav.navbar-nav > .active > a,
+.nav.navbar-nav > .active > a:hover,
+.nav.navbar-nav > .active > a:focus {
+    color: white;
+    background-color: #3399ff;
+}
+
+
