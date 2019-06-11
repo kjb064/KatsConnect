@@ -6,12 +6,11 @@
  * Time: 4:17 PM
  */
 
-//include_once 'includes/dbh-inc.php';
 include_once 'includes/constants-inc.php';
 
 class Marketplace
 {
-    private function fetchHousingListings($conn)    // VERIFY THIS QUERY WORKS
+    private function fetchHousingListings($conn)    
     {
 
         $query = "SELECT listing.listingImage, listing.Title, listing.userID, user.emailUser, user.firstname, user.lastname, user.sellerRating, user.numSellerRatings, 
@@ -25,7 +24,7 @@ class Marketplace
         return $result;
     }
 
-    private function fetchMiscListings($conn)    // VERIFY THIS QUERY WORKS
+    private function fetchMiscListings($conn)   
     {
         $query = "SELECT listing.listingImage, listing.userID, user.firstname, user.lastname, user.emailUser, user.sellerRating, 
                     user.numSellerRatings,
@@ -38,7 +37,7 @@ class Marketplace
         return $result;
     }
 
-    private function fetchBookListings($conn)    // VERIFY THIS QUERY WORKS
+    private function fetchBookListings($conn)   
     {
         $query = "SELECT listing.listingImage, listing.Title, listing.userID, user.firstname, user.lastname, user.emailUser, user.sellerRating, user.numSellerRatings,
                     listing.Date, listing.Description, listing.Price, bookAd.ISBN, 
