@@ -6,14 +6,6 @@ include_once 'Listing.php';
 include 'HousingAd.php';
 include 'BookAd.php';
 
-// Remove "redundant" 'isset()'?? ( !empty() is "sufficient")
-// Include automatic formatting for price?
-// (DONE) remove 'Author' from this once it's not necessary
-// Price separate since need is_numeric check!!!!!!!!!!!!
-
-//$requiredText = array('Title', 'Description');
-//$requiredNums = array();
-
 if($_SERVER['REQUEST_METHOD'] == 'POST')
 {
     $listing;
